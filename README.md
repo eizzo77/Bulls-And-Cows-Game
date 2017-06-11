@@ -29,11 +29,13 @@ Bravo! Your guess is right!
 
 ![Image](https://github.com/eizzo77/Bulls-And-Cows-Game/blob/master/RightGuess.png?raw=true)
 
-Seems like you have not managed to strike the right combination of color.
+Too Bad, seems like you have not managed to strike the right combination of color.
 
 ![Image](https://github.com/eizzo77/Bulls-And-Cows-Game/blob/master/GameOver.png?raw=true)
 
 either way, You're welcome to play again! 
+
+![Image](https://github.com/eizzo77/Bulls-And-Cows-Game/blob/master/TryAgain.png?raw=true)
 
 **Enjoy!!**
 

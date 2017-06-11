@@ -1,7 +1,7 @@
 # Welcome to Bulls and Cows Game ! 
 ## Challenge yourself and see how many chances required for you to strike the computer's auto-generated guess.
 
-              ![image](https://github.com/eizzo77/Bulls-And-Cows-Game/blob/master/Header.png?raw=true)
+<center>![image](https://github.com/eizzo77/Bulls-And-Cows-Game/blob/master/Header.png?raw=true)</center>
 
 First, you'll be asked to choose how many guesses you would like to have. the less guesses you have, the harder the game is.guesses range from 4 to 10.
 

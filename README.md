@@ -1,6 +1,6 @@
 # Welcome to Bulls and Cows Game ! 
 
-## Challenge yourself and see how many chances required for you to strike the computer's auto-generated guess.
+## Challenge yourself and see how many chances required are for you to strike the computer's auto-generated guess.
 
 
 ![image](https://github.com/eizzo77/Bulls-And-Cows-Game/blob/master/Header.png?raw=true)

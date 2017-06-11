@@ -13,7 +13,7 @@ A new Windows opens:
 ![image](https://github.com/eizzo77/Bulls-And-Cows-Game/blob/master/GameStart.png?raw=true)
 
 1. at the top 4 black buttons are displayed, these represents the Computer Guess you have to decypher.
-2. next to it, your guess buttons are shown, ready for you to click and pick your best guess. only your current guess line buttons are enabled.
+2. next to it, your guess buttons are shown, ready for you to click and pick your best guess. only your current guess line buttons are enabled. **Note: each color can be picked only once! there are no duplicates**
 
 ![image](https://github.com/eizzo77/Bulls-And-Cows-Game/blob/master/3ButtonsPicked.png?raw=true)
 
@@ -25,32 +25,17 @@ A new Windows opens:
 
 ![Image](https://github.com/eizzo77/Bulls-And-Cows-Game/blob/master/TinySquares.png?raw=true)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Bravo! Your guess is right!
 
-```markdown
-Syntax highlighted code block
+![Image](https://github.com/eizzo77/Bulls-And-Cows-Game/blob/master/RightGuess.png?raw=true)
 
-# Header 1
-## Header 2
-### Header 3
+Seems like you have not managed to strike the right combination of color.
 
-- Bulleted
-- List
+![Image](https://github.com/eizzo77/Bulls-And-Cows-Game/blob/master/GameOver.png?raw=true)
 
-1. Numbered
-2. List
+either way, You're welcome to play again! 
 
-**Bold** and _Italic_ and `Code` text
+**Enjoy!!**
 
-[Link](url) and ![Image](src)
-```
+Itay.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eizzo77/Bulls-And-Cows-Game/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

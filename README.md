@@ -9,6 +9,9 @@ First, you'll be asked to choose how many guesses you would like to have. the le
 ![image](https://github.com/eizzo77/Bulls-And-Cows-Game/blob/master/Guesses.png?raw=true)
 
 A new Windows opens:
+
+![image](https://github.com/eizzo77/Bulls-And-Cows-Game/blob/master/GameStart.png?raw=true)
+
 1. at the top 4 black buttons are displayed, these represents the Computer Guess you have to decypher.
 2. next to it, your guess buttons are shown, ready for you to click and pick your best guess. only your current guess line buttons are enabled.
 3. After you're sure you have got the best guess you could think of - click on the Arrow Button to launch.

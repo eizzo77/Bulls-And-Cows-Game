@@ -1,7 +1,8 @@
-## Welcome to GitHub Pages
+Welcome to Bulls and Cows Game ! 
 
-You can use the [editor on GitHub](https://github.com/eizzo77/Bulls-And-Cows-Game/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+First, you'll be asked to choose how many guesses you would like to have. the less guesses you have, the harder the game is.guesses range from 4 to 10.
 
+secondly 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown

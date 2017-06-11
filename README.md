@@ -14,6 +14,9 @@ A new Windows opens:
 
 1. at the top 4 black buttons are displayed, these represents the Computer Guess you have to decypher.
 2. next to it, your guess buttons are shown, ready for you to click and pick your best guess. only your current guess line buttons are enabled.
+
+![image](https://github.com/eizzo77/Bulls-And-Cows-Game/blob/master/3ButtonsPicked.png?raw=true)
+
 3. After you're sure you have got the best guess you could think of - click on the Arrow Button to launch.
 4. The 4 tiny squares at the end of each guess line demostrate how well your guess is
 - Each **Black square** says a color in your guess is right on point! meaning the computer picked the same color in the same spot! (but you have to figure out which one it is)  

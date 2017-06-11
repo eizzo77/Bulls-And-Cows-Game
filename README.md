@@ -13,7 +13,7 @@ A new Windows opens:
 
 ![image](https://github.com/eizzo77/Bulls-And-Cows-Game/blob/master/GameStart.png?raw=true)
 
-1. at the top 4 black buttons are displayed, these represents the Computer Guess you have to decypher.
+1. at the top 4 black buttons are displayed, these represents the Computer Guess you have to decipher.
 2. next to it, your guess buttons are shown, ready for you to click and pick your best guess. only your current guess line buttons are enabled. **Note: each color can be picked only once! there are no duplicates**
 
 ![image](https://github.com/eizzo77/Bulls-And-Cows-Game/blob/master/3ButtonsPicked.png?raw=true)

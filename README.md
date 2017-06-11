@@ -1,12 +1,13 @@
 # Welcome to Bulls and Cows Game ! 
 ## Challenge yourself and see how many chances required for you to strike the computer's auto-generated guess.
 
-<p align = "center">
-![image](https://github.com/eizzo77/Bulls-And-Cows-Game/blob/master/Header.png?raw=true)
-</p>
-First, you'll be asked to choose how many guesses you would like to have. the less guesses you have, the harder the game is.guesses range from 4 to 10.
 
-secondly 
+![image](https://github.com/eizzo77/Bulls-And-Cows-Game/blob/master/Header.png?raw=true)
+
+First, you'll be asked to choose how many guesses you would like to have. the less guesses you have, the harder the game is. guesses range from 4 to 10.
+![image](https://github.com/eizzo77/Bulls-And-Cows-Game/blob/master/Guesses.png?raw=true)
+
+Secondly, 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
